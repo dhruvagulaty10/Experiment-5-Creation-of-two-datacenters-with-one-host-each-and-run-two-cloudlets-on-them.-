@@ -228,7 +228,8 @@ public class CloudSimExample5 {
 
 
 
-![Uploading Screenshot 2026-02-20 092850.png…]()
+
+<img width="616" height="129" alt="Screenshot 2026-02-20 092850" src="https://github.com/user-attachments/assets/c4a41322-5948-4ee8-bafb-bdfa4c350dff" />
 
 
 
